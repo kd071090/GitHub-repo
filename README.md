@@ -22,3 +22,7 @@ You will now be using git and vscode to:
 Follow the guide [HERE](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
 Make sure that the deployed branch is `main` in settings.
+
+# 'Pistol' Pete Maravich Tribute Page final by KD
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/kd071090/pen/xxpamMb](https://codepen.io/kd071090/pen/xxpamMb).
